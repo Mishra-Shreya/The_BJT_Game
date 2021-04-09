@@ -9,7 +9,7 @@
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
-      <canvas id="unity-canvas" width=960 height=600></canvas>
+      <canvas id="unity-canvas" width=1900 height=1080></canvas>
       <div id="unity-loading-bar">
         <div id="unity-logo"></div>
         <div id="unity-progress-bar-empty">
@@ -56,11 +56,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/version 1.0.0.loader.js";
+      var loaderUrl = buildUrl + "/version 1.0.loader.js";
       var config = {
-        dataUrl: buildUrl + "/version 1.0.0.data",
-        frameworkUrl: buildUrl + "/version 1.0.0.framework.js",
-        codeUrl: buildUrl + "/version 1.0.0.wasm",
+        dataUrl: buildUrl + "/version 1.0.data",
+        frameworkUrl: buildUrl + "/version 1.0.framework.js",
+        codeUrl: buildUrl + "/version 1.0.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Shreya's",
         productName: "The BJT Game",
@@ -95,8 +95,8 @@
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-        canvas.style.width = "960px";
-        canvas.style.height = "600px";
+        canvas.style.width = "1900px";
+        canvas.style.height = "1080px";
       }
 
       loadingBar.style.display = "block";
