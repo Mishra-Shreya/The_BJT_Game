@@ -1,10 +1,10 @@
 # The_BJT_Game
  
-Play Game : https://mishra-shreya.github.io/The_BJT_Game/
+Play Game : https://mishra-shreya.github.io/The_BJT_Game/index.html
 
 
 ### Description :
-**[‘THE _BRAIN JIGSAW TEASER_ (BJT) GAME’](https://mishra-shreya.github.io/The_BJT_Game/)**  project is an educational game developed on Unity using C# scripting language and Unity Engine’s inbuilt styling components and UI. It is built using Unity's WebGL and is hosted on GitHub.
+**[‘THE _BRAIN JIGSAW TEASER_ (BJT) GAME’](https://mishra-shreya.github.io/The_BJT_Game/index.html)**  project is an educational game developed on Unity using C# scripting language and Unity Engine’s inbuilt styling components and UI. It is built using Unity's WebGL and is hosted on GitHub.
 ###
 _This project is created as a part of School - PBL - Activity_
 ###
