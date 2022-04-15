@@ -10,8 +10,7 @@
 
 This game provides students a fun-learning experience so that one can enjoy while learning. This game helps analyzing one’s technical, theoretical, and practical knowledge in EDC subject. It has various challenging and intriguing question which unlock puzzle pieces. After getting all the pieces of puzzle user must assemble the pieces to complete the puzzle, which will help students remembering the circuit diagram. Thus, after successful completion of the game, student or the user would gain the proper understanding of designing the BJT amplifier.
 
-### Source files:
-https://github.com/Mishra-Shreya/BrainJigsawTeaser
+### Source files: https://github.com/Mishra-Shreya/BrainJigsawTeaser
 
 ### ScreenShots :
 ![image](https://user-images.githubusercontent.com/69296480/163382313-0b0e72a0-78c1-42cc-89ac-b3bdb96126ec.png)
